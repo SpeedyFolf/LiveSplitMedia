@@ -1,0 +1,28 @@
+Some layouts may make use of components you don't have yet and therefore give an error that a component is missing or load the default layout. I recommend to download all these components so you don't encounter issues. Put them in the Components folder in your LiveSplit folder.
+
+https://github.com/Blantas/LiveSplit.GTASA_SpecialText
+https://github.com/Blantas/san-andreas-loadremoval-for-livesplit
+https://github.com/Dalet/LiveSplit.FocusedHotkeys
+https://github.com/fatalis/SourceSplit
+https://github.com/hallcristobal/LiveSplit.RivaTuner
+https://github.com/iNightfaller/Speed-Guides-Live
+https://github.com/JimmSlimm/TimeTell
+https://github.com/jonese1234/LiveSplit.BinaryBackgroundTimer
+https://github.com/kugelrund/LiveSplit.MemoryGraph
+https://github.com/lotsofs/LiveSplit.OutputToFile
+https://github.com/Marenthyu/LiveSplit.StreamingPredictionsComponent
+https://github.com/Minibeast/LiveSplit.Discord
+https://github.com/OCircles/LiveSplit.MemoryReader
+https://github.com/ROFLailXGOD/TimerPause
+https://github.com/ROMaster2/LiveSplit.VideoAutoSplit
+https://github.com/SethBling/PBChance
+https://github.com/ShootMe/LiveSplit.RaceComparison
+https://github.com/SpeedyFolf/LiveSplit.ChatBot
+https://github.com/SpeedyFolf/LiveSplit.ContextualSlideshow
+https://github.com/SpeedyFolf/LiveSplit.Remote
+https://github.com/SpeedyFolf/LiveSplit.Speech
+https://github.com/SuiMachine/LiveSplit.TwitchPredictions
+https://github.com/TheSoundDefense/LiveSplit.CompletionEstimate
+https://github.com/thisis2838/LiveSplit.DebugSpew
+
++ All components from https://livesplit.org/components/
