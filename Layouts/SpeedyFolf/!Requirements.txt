@@ -1,2 +1,0 @@
-OutputToFile component - https://github.com/SpeedyFolf/LiveSplit.OutputToFile
-ContextualSlideshow component - https://github.com/SpeedyFolf/LiveSplit.ContextualSlideshow
