@@ -94,7 +94,7 @@
         <BackgroundColor2>00008CA8</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
         <SeparatorLastSplit>True</SeparatorLastSplit>
-        <DeltasAccuracy>Tenths</DeltasAccuracy>
+        <DeltasAccuracy>Seconds</DeltasAccuracy>
         <DropDecimals>True</DropDecimals>
         <OverrideDeltasColor>False</OverrideDeltasColor>
         <DeltasColor>FFFFFFFF</DeltasColor>
@@ -128,7 +128,7 @@
         <BackgroundColor>FFEF8241</BackgroundColor>
         <BackgroundColor2>FF0D0D0D</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
-        <DeltaAccuracy>Tenths</DeltaAccuracy>
+        <DeltaAccuracy>Seconds</DeltaAccuracy>
         <DropDecimals>True</DropDecimals>
         <Comparison>Current Comparison</Comparison>
         <Display2Rows>False</Display2Rows>
@@ -145,10 +145,10 @@
         <SegmentTimerSizeRatio>27</SegmentTimerSizeRatio>
         <TimerShowGradient>False</TimerShowGradient>
         <OverrideTimerColors>False</OverrideTimerColors>
-        <SegmentTimerShowGradient>True</SegmentTimerShowGradient>
+        <SegmentTimerShowGradient>False</SegmentTimerShowGradient>
         <TimerFormat>1</TimerFormat>
         <SegmentTimerFormat>1</SegmentTimerFormat>
-        <SegmentTimesAccuracy>Hundredths</SegmentTimesAccuracy>
+        <SegmentTimesAccuracy>Seconds</SegmentTimesAccuracy>
         <TimerColor>FFAAAAAA</TimerColor>
         <SegmentTimerColor>FFAAAAAA</SegmentTimerColor>
         <SegmentLabelsColor>FFFFFFFF</SegmentLabelsColor>
@@ -210,8 +210,8 @@
         <OverrideTextColor>False</OverrideTextColor>
         <TimeColor>FFFFFFFF</TimeColor>
         <OverrideTimeColor>False</OverrideTimeColor>
-        <Accuracy>Hundredths</Accuracy>
-        <DropDecimals>False</DropDecimals>
+        <Accuracy>Seconds</Accuracy>
+        <DropDecimals>True</DropDecimals>
         <BackgroundColor>00FFFFFF</BackgroundColor>
         <BackgroundColor2>00FFFFFF</BackgroundColor2>
         <BackgroundGradient>Plain</BackgroundGradient>
