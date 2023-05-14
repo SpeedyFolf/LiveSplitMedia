@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Layout version="1.6.1">
   <Mode>Vertical</Mode>
-  <X>146</X>
-  <Y>108</Y>
-  <VerticalWidth>310</VerticalWidth>
-  <VerticalHeight>659</VerticalHeight>
+  <X>0</X>
+  <Y>0</Y>
+  <VerticalWidth>320</VerticalWidth>
+  <VerticalHeight>720</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>

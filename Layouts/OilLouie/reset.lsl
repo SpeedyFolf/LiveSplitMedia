@@ -3,8 +3,8 @@
   <Mode>Vertical</Mode>
   <X>0</X>
   <Y>0</Y>
-  <VerticalWidth>319</VerticalWidth>
-  <VerticalHeight>685</VerticalHeight>
+  <VerticalWidth>320</VerticalWidth>
+  <VerticalHeight>720</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
