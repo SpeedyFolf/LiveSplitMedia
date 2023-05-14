@@ -1,0 +1,4 @@
+prevSplitName=
+splitName=
+splitComparison=
+splitTime=
