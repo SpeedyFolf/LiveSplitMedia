@@ -1,3 +1,0 @@
-Barlow font families - https://fonts.google.com/?query=Barlow
-OutputToFile component - https://github.com/SpeedyFolf/LiveSplit.OutputToFile
-SpeedGuidesLive component - https://github.com/iNightfaller/Speed-Guides-Live
