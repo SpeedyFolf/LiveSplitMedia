@@ -3,8 +3,8 @@
   <Mode>Vertical</Mode>
   <X>0</X>
   <Y>0</Y>
-  <VerticalWidth>320</VerticalWidth>
-  <VerticalHeight>720</VerticalHeight>
+  <VerticalWidth>476</VerticalWidth>
+  <VerticalHeight>616</VerticalHeight>
   <HorizontalWidth>-1</HorizontalWidth>
   <HorizontalHeight>-1</HorizontalHeight>
   <Settings>
@@ -68,8 +68,8 @@
         <Version>1.6</Version>
         <CurrentSplitTopColor>FF1E1160</CurrentSplitTopColor>
         <CurrentSplitBottomColor>FF153574</CurrentSplitBottomColor>
-        <VisualSplitCount>20</VisualSplitCount>
-        <SplitPreviewCount>5</SplitPreviewCount>
+        <VisualSplitCount>8</VisualSplitCount>
+        <SplitPreviewCount>3</SplitPreviewCount>
         <DisplayIcons>True</DisplayIcons>
         <ShowThinSeparators>True</ShowThinSeparators>
         <AlwaysShowLastSplit>True</AlwaysShowLastSplit>
@@ -169,6 +169,22 @@
         <TimingMethod>Current Timing Method</TimingMethod>
         <DecimalsSize>35</DecimalsSize>
         <SegmentTimerDecimalsSize>35</SegmentTimerDecimalsSize>
+      </Settings>
+    </Component>
+    <Component>
+      <Path>LiveSplit.RunPrediction.dll</Path>
+      <Settings>
+        <Version>1.4</Version>
+        <TextColor>FFFFFFFF</TextColor>
+        <OverrideTextColor>False</OverrideTextColor>
+        <TimeColor>FFFFFFFF</TimeColor>
+        <OverrideTimeColor>False</OverrideTimeColor>
+        <Accuracy>Seconds</Accuracy>
+        <BackgroundColor>00FFFFFF</BackgroundColor>
+        <BackgroundColor2>00FFFFFF</BackgroundColor2>
+        <BackgroundGradient>Plain</BackgroundGradient>
+        <Comparison>Current Comparison</Comparison>
+        <Display2Rows>False</Display2Rows>
       </Settings>
     </Component>
   </Components>
