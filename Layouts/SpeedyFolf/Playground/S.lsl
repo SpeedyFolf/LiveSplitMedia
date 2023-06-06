@@ -199,10 +199,10 @@
       <Path>LiveSplit.OutputToFile.dll</Path>
       <Settings>
         <Version>0.1</Version>
-        <FolderPath>C:\Program Files\LiveSplit\Text\OutputToFile</FolderPath>
+        <FolderPath>F:\LiveSplit from Joshimuz\Text\OutputToFile</FolderPath>
         <SplitsBefore>5</SplitsBefore>
         <SplitsAfter>6</SplitsAfter>
-        <OutputTimer>False</OutputTimer>
+        <OutputTimer>True</OutputTimer>
       </Settings>
     </Component>
   </Components>
