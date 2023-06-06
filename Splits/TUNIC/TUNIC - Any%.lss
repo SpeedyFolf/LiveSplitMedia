@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon><![CDATA[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]]></GameIcon>
+  <GameName>TUNIC</GameName>
+  <CategoryName>Any%</CategoryName>
+  <LayoutPath>
+  </LayoutPath>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region>
+    </Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>0</AttemptCount>
+  <AttemptHistory />
+  <Segments>
+    <Segment>
+      <Name>
+      </Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings>
+    <Version>1.5</Version>
+    <ScriptPath>C:\Program Files\LiveSplit\Components\TUNIC.asl</ScriptPath>
+    <Start>True</Start>
+    <Reset>True</Reset>
+    <Split>True</Split>
+    <CustomSettings>
+      <Setting id="Key Items" type="bool">True</Setting>
+      <Setting id="inventory quantity Wand : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Techbow : 1" type="bool">True</Setting>
+      <Setting id="Achievement_2 : 1" type="bool">True</Setting>
+      <Setting id="Achievement_12 : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity SlowmoItem : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Shield : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Lantern : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Stick : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Mask : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Shotgun : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Stundagger : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Hexagon Green : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Hexagon Red : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Hexagon Blue : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Relic - Hero Sword : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Relic - Hero Crown : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Relic - Hero Water : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Relic - Hero Pendant HP : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Relic - Hero Pendant SP : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Relic - Hero Pendant MP : 1" type="bool">True</Setting>
+      <Setting id="Major Events" type="bool">True</Setting>
+      <Setting id="Achievement_4 : 1" type="bool">True</Setting>
+      <Setting id="Achievement_5 : 1" type="bool">True</Setting>
+      <Setting id="SV_Fortress Arena_Spidertank Is Dead : 1" type="bool">True</Setting>
+      <Setting id="Librarian Dead Forever : 1" type="bool">True</Setting>
+      <Setting id="SV_ScavengerBossesDead : 1" type="bool">True</Setting>
+      <Setting id="Has Died To God : 1" type="bool">True</Setting>
+      <Setting id="Placed Hexagon 1 Red : 1" type="bool">True</Setting>
+      <Setting id="Placed Hexagon 2 Green : 1" type="bool">True</Setting>
+      <Setting id="Placed Hexagon 3 Blue : 1" type="bool">True</Setting>
+      <Setting id="Placed Hexagons ALL : 1" type="bool">True</Setting>
+      <Setting id="Achievement_13 : 1" type="bool">True</Setting>
+      <Setting id="Cards" type="bool">True</Setting>
+      <Setting id="inventory quantity Trinket - MP Flasks : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Trinket - Glass Cannon : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Trinket - BTSR : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Trinket - Heartdrops : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Trinket - Bloodstain Plus : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Trinket - RTSR : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Trinket - Attack Up Defense Down : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Trinket - Block Plus : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Trinket - Bloodstain MP : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Trinket - Fast Icedagger : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Trinket - Stamina Recharge : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Trinket - Sneaky : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Trinket - Walk Speed Plus : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Trinket - Parry Window : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity Trinket - IFrames : 1" type="bool">True</Setting>
+      <Setting id="Fairies" type="bool">True</Setting>
+      <Setting id="SV_Fairy_1_Overworld_Flowers_Upper_Opened : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_2_Overworld_Flowers_Lower_Opened : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_3_Overworld_Moss_Opened : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_4_Caustics_Opened : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_5_Waterfall_Opened : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_6_Temple_Opened : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_7_Quarry_Opened : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_8_Dancer_Opened : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_9_Library_Rug_Opened : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_10_3DPillar_Opened : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_11_WeatherVane_Opened : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_12_House_Opened : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_13_Patrol_Opened : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_14_Cube_Opened : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_15_Maze_Opened : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_16_Fountain_Opened : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_17_GardenTree_Opened : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_18_GardenCourtyard_Opened : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_19_FortressCandles_Opened : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_20_ForestMonolith_Opened : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_00_Enough Fairies Found : 1" type="bool">True</Setting>
+      <Setting id="SV_Fairy_00_All Fairies Found : 1" type="bool">True</Setting>
+      <Setting id="Golden Trophies" type="bool">True</Setting>
+      <Setting id="inventory quantity GoldenTrophy_1 : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity GoldenTrophy_2 : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity GoldenTrophy_3 : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity GoldenTrophy_4 : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity GoldenTrophy_5 : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity GoldenTrophy_6 : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity GoldenTrophy_7 : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity GoldenTrophy_8 : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity GoldenTrophy_9 : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity GoldenTrophy_10 : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity GoldenTrophy_11 : 1" type="bool">True</Setting>
+      <Setting id="inventory quantity GoldenTrophy_12 : 1" type="bool">True</Setting>
+      <Setting id="Pages" type="bool">True</Setting>
+      <Setting id="unlocked page 0 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 1 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 2 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 3 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 4 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 5 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 6 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 7 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 8 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 9 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 10 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 11 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 12 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 13 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 14 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 15 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 16 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 17 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 18 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 19 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 20 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 21 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 22 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 23 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 24 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 25 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 26 : 1" type="bool">True</Setting>
+      <Setting id="unlocked page 27 : 1" type="bool">True</Setting>
+      <Setting id="Areas" type="bool">True</Setting>
+      <Setting id="scEvery" type="bool">False</Setting>
+      <Setting id="scOnce" type="bool">True</Setting>
+      <Setting id="scGeneral" type="bool">True</Setting>
+      <Setting id="sc24" type="bool">True</Setting>
+      <Setting id="sc38" type="bool">True</Setting>
+      <Setting id="sc23" type="bool">True</Setting>
+      <Setting id="sc25" type="bool">True</Setting>
+      <Setting id="sc26" type="bool">True</Setting>
+      <Setting id="sc63" type="bool">True</Setting>
+      <Setting id="scMountain" type="bool">True</Setting>
+      <Setting id="sc08" type="bool">True</Setting>
+      <Setting id="sc09" type="bool">True</Setting>
+      <Setting id="scEast" type="bool">True</Setting>
+      <Setting id="sc52" type="bool">True</Setting>
+      <Setting id="sc11" type="bool">True</Setting>
+      <Setting id="sc54" type="bool">True</Setting>
+      <Setting id="sc10" type="bool">True</Setting>
+      <Setting id="sc35" type="bool">True</Setting>
+      <Setting id="scWest" type="bool">True</Setting>
+      <Setting id="sc30" type="bool">True</Setting>
+      <Setting id="sc31" type="bool">True</Setting>
+      <Setting id="scFrog" type="bool">True</Setting>
+      <Setting id="sc32" type="bool">True</Setting>
+      <Setting id="sc51" type="bool">True</Setting>
+      <Setting id="scFortress" type="bool">True</Setting>
+      <Setting id="sc12" type="bool">True</Setting>
+      <Setting id="sc14" type="bool">True</Setting>
+      <Setting id="sc13" type="bool">True</Setting>
+      <Setting id="sc15" type="bool">True</Setting>
+      <Setting id="scLibrary" type="bool">True</Setting>
+      <Setting id="sc33" type="bool">True</Setting>
+      <Setting id="sc18" type="bool">True</Setting>
+      <Setting id="sc19" type="bool">True</Setting>
+      <Setting id="sc17" type="bool">True</Setting>
+      <Setting id="sc27" type="bool">True</Setting>
+      <Setting id="scQuarry" type="bool">True</Setting>
+      <Setting id="sc22" type="bool">True</Setting>
+      <Setting id="sc59" type="bool">True</Setting>
+      <Setting id="sc21" type="bool">True</Setting>
+      <Setting id="scZiggurat" type="bool">True</Setting>
+      <Setting id="sc44" type="bool">True</Setting>
+      <Setting id="sc42" type="bool">True</Setting>
+      <Setting id="sc41" type="bool">True</Setting>
+      <Setting id="sc43" type="bool">True</Setting>
+      <Setting id="scSwamp" type="bool">True</Setting>
+      <Setting id="sc58" type="bool">True</Setting>
+      <Setting id="sc68" type="bool">True</Setting>
+      <Setting id="sc60" type="bool">True</Setting>
+      <Setting id="sc62" type="bool">True</Setting>
+    </CustomSettings>
+  </AutoSplitterSettings>
+</Run>
